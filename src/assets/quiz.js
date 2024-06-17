@@ -1,0 +1,42 @@
+export const quiz = [
+    {
+      question: "What is the capital city of France?",
+      option1: "Berlin",
+      option2: "Warsaw",
+      option3: "Paris",
+      option4: "London",
+      ans: 3,
+    },
+    {
+      question: "In which year did World War II end?",
+      option1: "1945",
+      option2: "1943",
+      option3: "1946",
+      option4: "1947",
+      ans: 1,
+    },
+    {
+      question: "Which is the largest planet in our solar system?",
+      option1: "Uranus",
+      option2: "Mars",
+      option3: "Earth",
+      option4: "Jupiter",
+      ans: 4,
+    },
+    {
+      question: "Which country is known as the Land of the Rising Sun?",
+      option1: "South Korea",
+      option2: "Japan",
+      option3: "Taiwan",
+      option4: "Philippines",
+      ans: 2,
+    },
+    {
+      question: "What is the title of the 2021 James Bond film, Daniel Craig's last appearance as Bond?",
+      option1: "Spectre",
+      option2: "Skyfall",
+      option3: "Casino Royale",
+      option4: "No Time to Die",
+      ans: 4,
+    },
+  ];
